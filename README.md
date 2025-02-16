@@ -1,13 +1,14 @@
 ## Olá, eu sou Marcus Vinícius de Godoy.
 
+ GitHub Stats
 <div>
   <a href="https://github.com/MarcusViniciusGodoy">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarcusViniciusGodoy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusViniciusGodoy&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusViniciusGodoy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusViniciusGodoy&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
 
 ##
-
+ My Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +22,7 @@
 </div>
 
  ##
-
+ Connect with me!
 <div> 
   <a href="mailto:marcusviniciusdegodoy@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/MarcusViniciusGo"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
