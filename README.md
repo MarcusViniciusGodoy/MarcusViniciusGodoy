@@ -6,8 +6,13 @@
 
 ##
 
-<p align="center">Olá, meu nome é Marcus Vinícius de Godoy. Sou estudante de Engenharia de Computação e graduado em Mecatrônica Industrial. Atualmente trabalho como estagiário de TI.
+<p align="center">Olá, meu nome é Marcus Vinícius de Godoy. Sou estudante de Engenharia de Computação e graduado em Mecatrônica Industrial. Atualmente estou estudando para se um desenvolvedor back-end.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+##
+
+<p align="center">Hello, my name is Marcus Vinícius de Godoy. I am a Computer Engineering student and a graduate in Industrial Mechatronics. I am currently studying to become a back-end developer.
+I am constantly updating my knowledge and seeking new challenges in the technology field. I am passionate about learning and applying this knowledge to create innovative solutions.
  
  GitHub Stats
 <div>
