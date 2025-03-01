@@ -14,9 +14,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ##
  GitHub Stats
 <div>
-  <a href="https://github.com/MarcusViniciusGodoy">
+  <a href="https://github.com/MarcusViniciusGodoy"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusViniciusGodoy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusViniciusGodoy&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusViniciusGodoy&layout=compact&langs_count=8&card_width=320&theme=tokyonight"/>
 </div>
 
 ##
