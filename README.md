@@ -1,14 +1,17 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
-  </a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1e90ff&center=true&vCenter=true&random=false&width=1000&lines=Welcome%2C+to++my+profile!;My+name+is+Marcus+Vinícius;I'm+24+years+old;I'm+a+Developer+Back-end;I'm+from+Brazil;)](https://git.io/typing-svg)
 
 ##
 
 <p align="center">Olá, meu nome é Marcus Vinícius de Godoy. Sou estudante de Engenharia de Computação e graduado em Mecatrônica Industrial. Atualmente estou estudando para se um desenvolvedor back-end.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcusViniciusGodoy&bg_color=0d1117&color=00aaff&line=006eff&point=fcfcfd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
  GitHub Stats
 <div>
   <a href="https://github.com/MarcusViniciusGodoy">
