@@ -4,7 +4,7 @@
 
 ##
 
-<p align="center">Olá, meu nome é Marcus Vinícius de Godoy. Sou estudante de Engenharia de Computação e graduado em Mecatrônica Industrial. Atualmente estou estudando para se um desenvolvedor back-end.
+<p align="center">Olá, meu nome é Marcus Vinícius de Godoy. Sou estudante de Engenharia de Computação e graduado em Mecatrônica Industrial. Atualmente estou estudando para ser um desenvolvedor back-end.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 
