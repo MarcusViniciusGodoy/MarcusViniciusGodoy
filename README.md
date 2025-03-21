@@ -5,7 +5,7 @@
 <p align="center">Olá, meu nome é Marcus Vinícius de Godoy. Sou estudante de Engenharia de Computação e graduado em Mecatrônica Industrial. Atualmente estou estudando para ser um desenvolvedor back-end.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
-
+##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcusViniciusGodoy&bg_color=0d1117&color=00aaff&line=006eff&point=fcfcfd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
