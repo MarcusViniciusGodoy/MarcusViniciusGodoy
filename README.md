@@ -17,13 +17,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 ##
  My Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Marcus-maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
-  <img align="center" alt="Marcus-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Marcus-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="Marcus-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-</div>
+ 
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FFF?style=for-the-badge&logo=linux&logoColor=black)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-007ACC.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
  ##
  Connect with me!
@@ -31,6 +32,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <a href="mailto:marcusviniciusdegodoy@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/MarcusViniciusGo"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcus-vin%C3%ADcius-godoy-15b5461a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ 
 </div>
 
 <picture align="center">
